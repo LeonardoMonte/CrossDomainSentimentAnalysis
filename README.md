@@ -1,9 +1,5 @@
-# CrossDomainMineracao2019.2
-Repositório do projeto da cadeira de mineração de textos 2019.2
+# Cross Domain Sentiment Analysis
+Machine Learning algorithms applied in the cross domain sentiment analisys problem, using the amazon database ( Books, DVD,
+Eletronics and Kitchen appliance)
 
-
-Grupo : Emilia Galdino e Leonardo Monte
-
-
-Base de dados : Amazon (Books,DVD, Eletronics, Kitchen Appliance)
 
